@@ -125,6 +125,7 @@ class Employee extends React.Component {
     } = this.state;
     let { t } = this.props;
     // console.log(this.state.employees);
+    
     const columns = [
       {
         title: "Hành động",
